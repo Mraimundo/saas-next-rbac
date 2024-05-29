@@ -6,6 +6,7 @@ import { Role } from './roles'
 
 type PermissionsByRole = (
   user: User,
+  // eslint-disable-next-line prettier/prettier
   builder: AbilityBuilder<AppAbility>
 ) => void
 
