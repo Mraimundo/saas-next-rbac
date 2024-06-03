@@ -1,6 +1,6 @@
-# Next.js SaaS + RBAC
+# Node.js, Next.js, SaaS + RBAC
 
-This project contains all the necessary boilerplate to setup a multi-tenant SaaS with Next.js including authentication and RBAC authorization.
+This project contains all the necessary boilerplate to setup a multi-tenant SaaS Node.js with Next.js including authentication and RBAC authorization.
 
 ## Features
 
